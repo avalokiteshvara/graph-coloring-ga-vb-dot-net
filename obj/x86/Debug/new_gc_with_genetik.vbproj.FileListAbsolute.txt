@@ -1,0 +1,11 @@
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\bin\Debug\new_gc_with_genetik.exe
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\bin\Debug\new_gc_with_genetik.pdb
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\bin\Debug\new_gc_with_genetik.xml
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\new_gc_with_genetik.Resources.resources
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\new_gc_with_genetik.exe
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\new_gc_with_genetik.xml
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\new_gc_with_genetik.pdb
+C:\graph_coloring\gc_with_genetik\new_gc_with_genetik\obj\x86\Debug\new_gc_with_genetik.FrmMain.resources
